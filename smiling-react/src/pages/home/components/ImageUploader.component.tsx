@@ -67,3 +67,4 @@ export const ImageUploader: React.FC<ImageUploaderProps> = ({ onUpload }) => {
     </Dropzone>
   );
 };
+export default ImageUploader;
