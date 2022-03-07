@@ -1,4 +1,7 @@
-# Artificial Intelligence Project: CelebA dataset
+# CNN using CelebA dataset
+
+
+> 👉 Our model is now live [here](https://smile-ai.vercel.app)!
 
 ## 1. Group
 - ALLIENNE Maxime
@@ -26,4 +29,4 @@ Finally, we've decided to **integrate our model into a website**. It's more fun 
 
 To do this, we converted the .h5 template into a Tensorflow.js compatible template. Then we created a React.js project that allows to upload a picture (locally only). When the user adds a photo, we predict if the person is smiling or not.
 
-You can test our model on this [link](https://vercel.com).
+You can test our model on this this [link](https://smile-ai.vercel.app).
